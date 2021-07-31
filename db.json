@@ -1,0 +1,54 @@
+{
+  "shop": [
+    {
+      "id": 1,
+      "address": "Avenida Arequipa 2450",
+      "type": "polleria",
+      "nombre": "Norkys"
+    
+    },
+    {
+      "id": 2,
+      "address": "Avenida Benavides 4110",
+      "type": "chifa",
+      "nombre": "Choy Tac"
+  
+    },
+    {
+      "id": 3,
+      "address": "Avenida Benavides 5240",
+      "type": "cevicheria",
+      "nombre": "Pescados Capitales"
+  
+    },
+    {
+      "id": 4,
+      "address": "Avenida Los Rios 1270",
+      "type": "cevicheria",
+      "nombre": "Pescados Mero"
+ 
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "pollo-brasa",
+      "shopId": 1
+    },
+    {
+      "id": 2,
+      "name": "pollo-broaster",
+      "shopId": 1
+    },
+    {
+      "id": 3,
+      "name": "ceviche",
+      "shopId": 2
+    },
+    {
+      "id": 4,
+      "name": "chaufa",
+      "shopId": 2
+    }
+  ]
+}
